@@ -1,6 +1,7 @@
 # Proef PE 1
 ## Voorbereiding
 Open deze repository met GitHub Codespaces. Dit doe je door rechts bovenaan op de knop "code" te klikken en daarna op "Create codespace on main".
+
 ![codespaces](image.png)
 
 Dit opent een browser based visual studio code IDE. Je werkt de PE uit in deze IDE. 
