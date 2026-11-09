@@ -4,7 +4,7 @@ Open deze repository met Visual studio code op je lokale laptop. Dit doe je door
 Tijdens de opdracht mag je enkel gebruik maken van:
 - Zelf gemaakte documentatie
 - Het portaal van je Github repository
-- Visual studio code als IDE met eventueel de YAML extentie van redhat.
+- Visual studio code als IDE met eventueel de YAML extensie van redhat.
 
 Het gebruik van AI tools en AI plugins is niet toegestaan en wordt gezien als fraude. Toezichters zullen steekproefgewijs controleren of studenten enkel gebruik maken van het toegelaten materiaal. Het is niet toegestaan om extra extensies te installeren in de IDE.
 
